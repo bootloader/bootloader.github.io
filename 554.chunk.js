@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbootvue_site=self.webpackChunkbootvue_site||[]).push([[554],{7554:(e,o,n)=>{n.r(o),n.d(o,{default:()=>p});var t=n(9142);console.log("app loaded");const r=(0,t.defineComponent)({name:"App"}),p=(0,n(1535).A)(r,[["render",function(e,o,n,r,p,s){var u=(0,t.resolveComponent)("router-view");return(0,t.openBlock)(),(0,t.createBlock)(u)}]])}}]);

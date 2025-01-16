@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbootvue_site=self.webpackChunkbootvue_site||[]).push([[962],{8962:(e,n,o)=>{o.r(n),o.d(n,{default:()=>c});var t=o(9142);const u=(0,t.defineComponent)({name:"NotFound"}),c=(0,o(1535).A)(u,[["render",function(e,n,o,u,c,l){return(0,t.openBlock)(),(0,t.createElementBlock)("div",null,"404 - App not found")}]])}}]);
